@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋, I'm Amaan Haider
+
+
+### A passionate Full Stack developer from India 🇮🇳🧑🏻‍💻
 
 <!--
 **AmaanHaider/amaanhaider** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -29,10 +32,5 @@ Here are some ideas to get you started:
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=amaanhaider&icon=7&color=6)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
